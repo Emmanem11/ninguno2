@@ -1,0 +1,20 @@
+#header{
+
+	width: 1100px;
+	height: 200px;
+}
+
+
+.footer {
+	position: static;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: #eeeeee;
+	color: black;
+	text-align: center;
+}
+.p{
+	font-family: "15px/18px serif";
+
+}
