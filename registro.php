@@ -64,7 +64,7 @@
 				
 			<div class="col-md-6">
 				<label for="id_role">Tipo de usuario</label>
-				
+				<br>
 				<select name="id_role" class="custom-select mb-3" required>
 					<?php 
                         while($datos = mysqli_fetch_array($query1))
@@ -78,6 +78,7 @@
                     ?> 
       			</select>
       		</div>
+
 			</div>
 		
 			<input type="submit" class="btn btn-primary"  value="Enviar" name="btn1">
@@ -105,15 +106,12 @@
 						
 						echo "insersion correcta";
 			}				
-			
-			
+						
 			?>
-			
-		
+					
 		</div>
 		
 	</body>
 </html>
 
 
-ad

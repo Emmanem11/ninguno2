@@ -9,6 +9,7 @@
 	$tabladatos = "datos";
 	$tablaformulario1 = "formulario1";
 	$tablaroles = "roles";
+	$tablacentro_costos = "centro_costos";
 	
 	//conexion con el servidor xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 	//$conectar = new mysqli($host,$usuarioDB,$passBD,$nomDB);
