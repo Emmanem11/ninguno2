@@ -97,7 +97,7 @@
 						$id_role=$_POST['id_role'];
 						
 						
-						$conectar =mysqli_query($conectar,"INSERT INTO $tabladatos VALUES ('$nombre',
+						$conectar = mysqli_query($conectar,"INSERT INTO $tabladatos VALUES ('$nombre',
 																				'$AP',
 																				'$AM',
 																				'$idUsuario',
